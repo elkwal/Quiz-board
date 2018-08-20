@@ -12,7 +12,7 @@ The Quiz board opens by the title of the webpage. It then gives clear Javascript
 
 To start using the project use the instructions below:
 
--   `git clone https://github.com/elkwal/Quiz-board.git`
+-   `git clone https://github.com/elkwal/Quiz-board/`
 -   `cd css`
 -   `atom .`
     ### License
