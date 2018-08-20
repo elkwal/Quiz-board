@@ -29,3 +29,9 @@
     max-width: 1140px;
   }
 }
+
+body{
+  background-image: url(../images/wal.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
