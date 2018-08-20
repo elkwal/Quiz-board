@@ -16,3 +16,6 @@ To start using the project use the instructions below:
 -   `cd css`
 -   `atom .`
     ### License
+
+    MIT License
+    Copyright (c) 2018 Moringa School
